@@ -1,3 +1,3 @@
 # flutter_cross_platform
 
-A Flutter Project about creating a cross platform application for web, android, and windows where there is 2 features that utilizes some built-in components from a device where the application runs.
+This Flutter Project is about creating a cross-platform application for web, Android, and Windows with two features that utilize some built-in components from the device where the application runs.
